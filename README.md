@@ -1,11 +1,5 @@
--- Meu nome é Lucas T. Lopes, estou ingressando no MELI agora em mar/2022.
+- I am Lucas Troleiz Lopes. 👨‍💻
 
-Estou participando do IT BootCamp, 
-sou da região de Florianópolis e 
-estou empolgado para aprender bastante nesta 
-empresa de padrão alto de tecnologia.
+- I am participating in Meli's IT BootCamp. 🌐
 
-
-
-
---Aprender para junto cumprir a missão de impactar positivamente na vida de milhoes de pessoas.
+- Learn together to fulfill the mission of positively impacting the lives of millions of people. 📑
